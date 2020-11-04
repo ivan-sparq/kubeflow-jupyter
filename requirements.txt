@@ -1,0 +1,3 @@
+jupyterlab-git
+dask_labextension
+jupyter-server-proxy
